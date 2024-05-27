@@ -54,3 +54,8 @@ The monitor renders six nodes with at least one node in green state, one amber s
 
 ##### Purpose
 The goal for this scenario is to complete your framework to handle multiple scenarios of checking.
+
+#Example Edits
+
+This is an example for file editing purposes
+
